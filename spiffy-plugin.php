@@ -79,7 +79,7 @@ function posts_custom_columns($column_name, $id){
 
 
 // Include Custom Post Type file
-include	'cpt.php';
+// include	'cpt.php';
 
 
 
