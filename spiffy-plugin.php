@@ -19,7 +19,7 @@
  * @wordpress-plugin
  * Plugin Name: Spiffy Plugin
  * Plugin URI:  http://wwww.ouhsd.k12.ca.us
- * Description: A wordpress plugin that adds club function to school sites
+ * Description: A wordpress plugin for preferred defaults
  * Version:     1.0.0
  * Author:      Tiffany Israel
  * Author URI:  http://www.tiffanyisrael.com
