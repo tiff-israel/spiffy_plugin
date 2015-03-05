@@ -88,4 +88,10 @@ if ( is_plugin_active('js_composer/js_composer.php') ) {
 	include 'visual_composer.php';
 }
 
-
+// Add SVG Mime type
+// https://css-tricks.com/snippets/wordpress/allow-svg-through-wordpress-media-uploader/
+function spiffy_mime_types_svg($mimes) {
+  $mimes['svg'] = 'image/svg+xml';
+  return $mimes;
+}
+add_filter('upload_mimes', 'spiffy_mime_types_svg');
