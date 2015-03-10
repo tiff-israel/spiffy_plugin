@@ -18,7 +18,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Spiffy Plugin
- * Plugin URI:  http://wwww.ouhsd.k12.ca.us
+ * Plugin URI:  http://wwww.tiffanyisrael.com
  * Description: A wordpress plugin for preferred defaults
  * Version:     1.0.0
  * Author:      Tiffany Israel
