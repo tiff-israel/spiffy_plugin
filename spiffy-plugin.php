@@ -1,12 +1,7 @@
 <?php
 /**
  * Spiffy Plugin Boilerplate
- * Built from: The WordPress Plugin Boilerplate.
- *
- * REPLACE!!!
- * Spiffy Plugin
- * Spiffy_Plugin
- * spiffy-plugin
+ * Built from: The WordPress Plugin Boilerplate
  *
  * 
  *
